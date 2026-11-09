@@ -1,0 +1,18 @@
+{
+  "tempos": [
+    { "id": "present-simple",              "label": "Present Simple",              "arquivo": "data/presentesimples.txt",           "cor": "#c2410c", "available": true },
+    { "id": "present-continuous",          "label": "Present Continuous",          "arquivo": "data/presentcontinuous.txt",         "cor": "#0e7490", "available": true },
+    { "id": "present-perfect",             "label": "Present Perfect",             "arquivo": "data/presentperfect.txt",            "cor": "#be123c", "available": true },
+    { "id": "present-perfect-continuous",  "label": "Present Perfect Continuous",  "arquivo": "data/presentperfectcontinuous.txt",  "cor": "#9d174d", "available": true },
+
+    { "id": "past-simple",                 "label": "Past Simple",                 "arquivo": "data/pastsimples.txt",               "cor": "#7c2d12", "available": true },
+    { "id": "past-continuous",             "label": "Past Continuous",             "arquivo": "data/pastcontinuous.txt",            "cor": "#6d28d9", "available": true },
+    { "id": "past-perfect",                "label": "Past Perfect",                "arquivo": "data/pastperfect.txt",               "cor": "#4c1d95", "available": true },
+    { "id": "past-perfect-continuous",     "label": "Past Perfect Continuous",     "arquivo": "data/pastperfectcontinuous.txt",     "cor": "#3730a3", "available": true },
+
+    { "id": "future-simple",               "label": "Future Simple",               "arquivo": "data/futuresimple.txt",              "cor": "#047857", "available": true },
+    { "id": "future-continuous",           "label": "Future Continuous",           "arquivo": "data/futurecontinuous.txt",          "cor": "#0f766e", "available": true },
+    { "id": "future-perfect",              "label": "Future Perfect",              "arquivo": "data/futureperfect.txt",             "cor": "#065f46", "available": true },
+    { "id": "future-perfect-continuous",   "label": "Future Perfect Continuous",   "arquivo": "data/futureperfectcontinuous.txt",   "cor": "#14532d", "available": true }
+  ]
+}
