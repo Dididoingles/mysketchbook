@@ -1,0 +1,23 @@
+A ideia: criar um app para treinar a gramática (tempos verbais) através de exercícios de completar frases (a partir de opções) e escrever a resposta que completa a frase. 
+
+O app deve ter uma shell (página principal) que vai alterando o texto dos exercícios dinamicamente dependendo da escolha do aluno na tela inicial. Se o aluno escolher praticar o presente simples, o app procura por 'presentesimples.txt' que tem essa estrutura:
+
+#Explicação: A explicação formal daquele tempo verbal
+#Aprofunde seu conhecimento: links de sites confiáveis da internet que explicam aquele assunto
+
+#Exercício: (exemplo)
+            sentence: "Every day, Alex [[1]] up at 6:30 AM.",
+            answer: "wakes",
+            options: ["wake", "wakes", "waking", "waked"]
+
+Fluxo do app: 
+O html index.html abre como de costume, mas na página principal em vez dos cards aparecem apenas tags menores com o nome do tempo verbal
+
+Ao serem clicados, esses cards abrem uma outra tela para escolher se quer multipla escolha ou digitar a resposta. depois de escolhido o formato, o arquivo abre a tela do exercício e assim se segue até o feedback. 
+
+O que não pode faltar no arquivo: ajuste para mobile e desktop. Os assets devem ser ajustados para a melhor experiencia possível em ambos os dispositivos. DESKTOP SEM SCROLL sempre que possível e quando necessário a barra de scroll deve ser extremamente minimalista. 
+
+SFX para clique, erro e feedback, e música de fundo. indispensável botão de mudo para os dois isoladamente. 
+
+
+Novas ideias: perguntas aleatorias? ter um banco e sorteia 5
