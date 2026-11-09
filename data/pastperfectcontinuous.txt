@@ -1,0 +1,36 @@
+#Explicação:
+O Past Perfect Continuous enfatiza a duração de uma ação que estava acontecendo ANTES de outra no passado. A estrutura é had been + verbo-ing (I had been waiting). Ele combina a lógica do Past Perfect (passado do passado) com a do Continuous (ênfase no processo). Usos principais: explicar a causa de algo no passado (She was tired because she had been working all day), e indicar duração de uma ação anterior (I had been living there for ten years when I met her). A diferença para o Past Perfect simples: o Simple foca no resultado (I had painted the wall = terminou), o Continuous foca na duração e no processo (I had been painting the wall = estava no meio, ou acabado de terminar com tinta nas mãos). É o tempo mais raro do inglês, mas aparece muito em narrativas para justificar causas.
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/past-perfect-continuous.html
+- https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/past-perfect-continuous
+
+#Exercício:
+sentence: "She was tired because she [[1]] all day."
+answer: "had been working"
+options: ["worked", "had been working", "works", "working"]
+
+#Exercício:
+sentence: "They [[1]] for two hours when the bus finally arrived."
+answer: "had been waiting"
+options: ["waited", "had been waiting", "wait", "waiting"]
+
+#Exercício:
+sentence: "His eyes were red because he [[1]] all night."
+answer: "had been reading"
+options: ["read", "had been reading", "reads", "reading"]
+
+#Exercício:
+sentence: "We [[1]] there for ten years when we decided to move."
+answer: "had been living"
+options: ["lived", "had been living", "live", "living"]
+
+#Exercício:
+sentence: "The ground was wet because it [[1]] earlier."
+answer: "had been raining"
+options: ["rained", "had been raining", "rains", "raining"]
+
+#Exercício:
+sentence: "He [[1]] for the exam for weeks before he finally passed."
+answer: "had been studying"
+options: ["studied", "had been studying", "studies", "studying"]

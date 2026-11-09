@@ -1,0 +1,36 @@
+#Explicação:
+O Present Continuous é usado para ações que estão acontecendo agora, neste momento, ou para planos já marcados para um futuro próximo (I'm meeting her tomorrow). A estrutura é sempre sujeito + am/is/are + verbo principal com -ing. Ele contrasta com o Present Simple: o Simple fala de hábitos e rotinas (I work every day), o Continuous fala do agora (I am working right now).
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/present-continuous.html
+- https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/present-continuous
+
+#Exercício:
+sentence: "Look! Alex [[1]] a book right now."
+answer: "is reading"
+options: ["reads", "is reading", "read", "reading"]
+
+#Exercício:
+sentence: "She [[1]] dinner at the moment, so she can't answer the phone."
+answer: "is cooking"
+options: ["cooks", "is cooking", "cook", "cooking"]
+
+#Exercício:
+sentence: "They [[1]] soccer in the park right now."
+answer: "are playing"
+options: ["play", "plays", "are playing", "playing"]
+
+#Exercício:
+sentence: "I [[1]] for my English test this week."
+answer: "am studying"
+options: ["study", "studies", "am studying", "studying"]
+
+#Exercício:
+sentence: "The kids [[1]] in the pool at the moment."
+answer: "are swimming"
+options: ["swim", "swims", "are swimming", "swimming"]
+
+#Exercício:
+sentence: "Be quiet! The baby [[1]]."
+answer: "is sleeping"
+options: ["sleeps", "is sleeping", "sleep", "sleeping"]

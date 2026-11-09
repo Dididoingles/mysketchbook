@@ -1,0 +1,36 @@
+#Explicação:
+O Future Simple expressa decisões tomadas no momento da fala, promessas, ofertas, previsões baseadas em opinião e fatos futuros. A estrutura é sempre will + verbo na forma base (I will go, she will travel). Não importa a pessoa: will é invariável (não existe "wills"). Para planos já decididos antes de falar, o inglês prefere "going to" (I'm going to visit my parents this weekend), mas will continua correto e é o que usamos para decisões espontâneas. Na negativa, will not contrai para won't. Na pergunta, will vem antes do sujeito (Will you help me?).
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/simple-future.html
+- https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/future-simple
+
+#Exercício:
+sentence: "Don't worry, I [[1]] you with your bags."
+answer: "will help"
+options: ["help", "will help", "helped", "helping"]
+
+#Exercício:
+sentence: "She [[1]] her grandparents next weekend."
+answer: "will visit"
+options: ["visits", "will visit", "visited", "visiting"]
+
+#Exercício:
+sentence: "They [[1]] the project by Friday, I'm sure."
+answer: "will finish"
+options: ["finish", "finishes", "will finish", "finished"]
+
+#Exercício:
+sentence: "I think it [[1]] tomorrow."
+answer: "will rain"
+options: ["rains", "will rain", "rained", "raining"]
+
+#Exercício:
+sentence: "We [[1]] pizza tonight if you want."
+answer: "will order"
+options: ["order", "orders", "will order", "ordered"]
+
+#Exercício:
+sentence: "He [[1]] you as soon as he arrives."
+answer: "will call"
+options: ["calls", "will call", "called", "calling"]

@@ -1,0 +1,36 @@
+#Explicação:
+O Present Perfect conecta passado e presente. Usamos para experiências de vida sem dizer quando (I have visited London), para ações que começaram no passado e continuam (I have lived here for five years), e para ações recentes com efeito agora (She has just arrived). A estrutura é have/has + particípio passado (visited, gone, eaten). O ponto mais importante: o Present Perfect NUNCA aceita tempo definido. "I have seen him yesterday" está errado — com "yesterday" usa-se Past Simple (I saw him yesterday). Ele é o tempo que mais confunde brasileiros porque o português não tem equivalente exato: o "já" e o "tenho feito" do português não batem com o inglês. Regra prática: se a pergunta é "quando?", é Past Simple; se é "alguma vez?" ou "há quanto tempo?", é Present Perfect.
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/present-perfect.html
+- https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/present-perfect
+
+#Exercício:
+sentence: "I [[1]] London twice in my life."
+answer: "have visited"
+options: ["visited", "have visited", "visit", "visiting"]
+
+#Exercício:
+sentence: "She [[1]] her homework already."
+answer: "has finished"
+options: ["finished", "has finished", "finishes", "finishing"]
+
+#Exercício:
+sentence: "They [[1]] here since 2015."
+answer: "have lived"
+options: ["live", "lived", "have lived", "living"]
+
+#Exercício:
+sentence: "He [[1]] his keys, so he can't open the door."
+answer: "has lost"
+options: ["lost", "has lost", "loses", "losing"]
+
+#Exercício:
+sentence: "We [[1]] to that restaurant three times."
+answer: "have been"
+options: ["went", "have been", "go", "going"]
+
+#Exercício:
+sentence: "The movie [[1]] yet, so we can still buy tickets."
+answer: "hasn't started"
+options: ["didn't start", "hasn't started", "doesn't start", "not started"]

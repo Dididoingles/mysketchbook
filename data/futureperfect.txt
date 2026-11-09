@@ -1,0 +1,36 @@
+#Explicação:
+O Future Perfect descreve uma ação que estará COMPLETA antes de um momento específico do futuro. A estrutura é will have + particípio passado (I will have finished). Usos principais: prazo (I will have finished the report by Friday), e projeções (By 2030, they will have built the new bridge). A diferença para o Future Simple: o Simple fala de uma ação futura (I will finish = vou terminar, sem prazo), o Perfect fala de conclusão antes de um marco (I will have finished by Friday = até sexta, estará pronto). Marcadores típicos: by (by Friday, by 2030, by the time you arrive), before. É um tempo formal, mais comum na escrita que na fala.
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/future-perfect.html
+- https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/future-perfect
+
+#Exercício:
+sentence: "By Friday, I [[1]] the report."
+answer: "will have finished"
+options: ["finish", "will finish", "will have finished", "finishing"]
+
+#Exercício:
+sentence: "By the time you arrive, she [[1]] dinner."
+answer: "will have cooked"
+options: ["cooks", "will cook", "will have cooked", "cooking"]
+
+#Exercício:
+sentence: "By 2030, they [[1]] the new bridge."
+answer: "will have built"
+options: ["build", "will build", "will have built", "building"]
+
+#Exercício:
+sentence: "By the end of the month, we [[1]] the project."
+answer: "will have completed"
+options: ["complete", "will complete", "will have completed", "completing"]
+
+#Exercício:
+sentence: "By the time he turns 30, he [[1]] in five countries."
+answer: "will have lived"
+options: ["lives", "will live", "will have lived", "living"]
+
+#Exercício:
+sentence: "By next week, they [[1]] the house."
+answer: "won't have sold"
+options: ["don't sell", "won't sell", "won't have sold", "not selling"]

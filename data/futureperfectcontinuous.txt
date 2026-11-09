@@ -1,0 +1,36 @@
+#Explicação:
+O Future Perfect Continuous descreve a duração de uma ação que estará em andamento até um momento específico do futuro. A estrutura é will have been + verbo-ing (I will have been working). É o tempo mais raro do inglês e quase não aparece na fala. Usos principais: enfatizar duração acumulada até um marco futuro (By next month, I will have been working here for five years), e causas futuras (When you arrive, she will have been studying for six hours). A diferença para o Future Perfect simples: o Simple fala de conclusão (I will have finished = estará pronto), o Continuous fala de processo contínuo (I will have been working = estarei no processo, ou terei acumulado aquela duração). Marcadores típicos: by... for (by next month for five years), when... for (when you arrive for six hours). Só use se quiser impressão de erudição — na prática, nativos preferem o Future Perfect ou o Present Perfect Continuous.
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/future-perfect-continuous.html
+- https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/future-perfect-continuous
+
+#Exercício:
+sentence: "By next month, I [[1]] here for five years."
+answer: "will have been working"
+options: ["work", "will work", "will have been working", "working"]
+
+#Exercício:
+sentence: "When you arrive, she [[1]] for six hours."
+answer: "will have been studying"
+options: ["studies", "will study", "will have been studying", "studying"]
+
+#Exercício:
+sentence: "By the end of the year, they [[1]] for ten years."
+answer: "will have been married"
+options: ["marry", "will marry", "will have been married", "marrying"]
+
+#Exercício:
+sentence: "By the time the project ends, we [[1]] on it for two years."
+answer: "will have been working"
+options: ["work", "will work", "will have been working", "working"]
+
+#Exercício:
+sentence: "By 2027, he [[1]] English for a decade."
+answer: "will have been teaching"
+options: ["teaches", "will teach", "will have been teaching", "teaching"]
+
+#Exercício:
+sentence: "When the clock strikes midnight, we [[1]] for twelve hours."
+answer: "will have been driving"
+options: ["drive", "will drive", "will have been driving", "driving"]

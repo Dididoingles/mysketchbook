@@ -1,0 +1,36 @@
+#Explicação:
+O Present Perfect Continuous enfatiza a duração de uma ação que começou no passado e continua até agora, ou que acabou de terminar e deixou um resultado visível. A estrutura é have/has been + verbo-ing (I have been studying, she has been working). A diferença para o Present Perfect simples: o Simple foca no resultado (I have painted the house = terminou), o Continuous foca no processo e na duração (I have been painting the house = ainda estou no meio, ou acabei de terminar e estou sujo de tinta). É o tempo de "há quanto tempo você...?" — How long have you been waiting? Combina naturalmente com for (período: for two hours) e since (ponto de início: since 8 AM).
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/present-perfect-continuous.html
+- https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/present-perfect-continuous
+
+#Exercício:
+sentence: "I [[1]] for this test for three hours."
+answer: "have been studying"
+options: ["studied", "have been studying", "study", "studying"]
+
+#Exercício:
+sentence: "She [[1]] at that company since 2020."
+answer: "has been working"
+options: ["worked", "has been working", "works", "working"]
+
+#Exercício:
+sentence: "They [[1]] for the bus for twenty minutes."
+answer: "have been waiting"
+options: ["waited", "have been waiting", "wait", "waiting"]
+
+#Exercício:
+sentence: "He [[1]] all morning, so he's tired now."
+answer: "has been running"
+options: ["ran", "has been running", "runs", "running"]
+
+#Exercício:
+sentence: "We [[1]] English for two years."
+answer: "have been learning"
+options: ["learned", "have been learning", "learn", "learning"]
+
+#Exercício:
+sentence: "It [[1]] since this morning."
+answer: "has been raining"
+options: ["rained", "has been raining", "rains", "raining"]

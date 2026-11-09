@@ -1,0 +1,36 @@
+#Explicação:
+O Past Simple é usado para ações concluídas no passado, com tempo definido (yesterday, last night, in 2010). Verbos regulares ganham -ed (work → worked); verbos irregulares têm forma própria (go → went, see → saw). Na negativa e na pergunta, usa-se did (didn't work, did you work?) e o verbo volta à forma base.
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/past-simple.html
+- https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/past-simple
+
+#Exercício:
+sentence: "Yesterday, Alex [[1]] to the park with his dog."
+answer: "went"
+options: ["go", "goes", "went", "going"]
+
+#Exercício:
+sentence: "She [[1]] her grandmother last weekend."
+answer: "visited"
+options: ["visit", "visits", "visited", "visiting"]
+
+#Exercício:
+sentence: "They [[1]] a great movie last night."
+answer: "watched"
+options: ["watch", "watches", "watched", "watching"]
+
+#Exercício:
+sentence: "I [[1]] my keys on the table this morning."
+answer: "found"
+options: ["find", "finds", "found", "finding"]
+
+#Exercício:
+sentence: "He [[1]] his homework before dinner."
+answer: "finished"
+options: ["finish", "finishes", "finished", "finishing"]
+
+#Exercício:
+sentence: "We [[1]] pizza at that new restaurant last Friday."
+answer: "ate"
+options: ["eat", "eats", "ate", "eaten"]

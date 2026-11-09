@@ -1,0 +1,36 @@
+#Explicação:
+O Future Continuous descreve uma ação que estará em andamento em um momento específico do futuro. A estrutura é will be + verbo-ing (I will be working). Usos principais: ação em progresso no futuro (This time tomorrow, I will be flying to London), e perguntas educadas sobre planos (Will you be using the car tonight?). A diferença para o Future Simple: o Simple fala do fato (I will work = vou trabalhar, ponto), o Continuous fala do processo em andamento (I will be working = estarei trabalhando naquele momento). Aparece pouco na fala espontânea, mas é comum em contextos formais e narrativas de planejamento. Marcadores típicos: this time tomorrow, at 8 PM tonight, next week at this hour.
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/future-continuous.html
+- https://learnenglish.britishcouncil.org/grammar/b1-b2-grammar/future-continuous
+
+#Exercício:
+sentence: "This time tomorrow, I [[1]] to London."
+answer: "will be flying"
+options: ["fly", "will fly", "will be flying", "flying"]
+
+#Exercício:
+sentence: "At 8 PM tonight, she [[1]] dinner."
+answer: "will be cooking"
+options: ["cooks", "will cook", "will be cooking", "cooking"]
+
+#Exercício:
+sentence: "Don't call me at 10 AM — I [[1]] a meeting."
+answer: "will be having"
+options: ["have", "will have", "will be having", "having"]
+
+#Exercício:
+sentence: "They [[1]] in the garden when we arrive."
+answer: "will be working"
+options: ["work", "will work", "will be working", "working"]
+
+#Exercício:
+sentence: "Next week at this hour, we [[1]] on the beach."
+answer: "will be relaxing"
+options: ["relax", "will relax", "will be relaxing", "relaxing"]
+
+#Exercício:
+sentence: "He [[1]] the car tonight, so you can borrow it."
+answer: "won't be using"
+options: ["doesn't use", "won't use", "won't be using", "not using"]

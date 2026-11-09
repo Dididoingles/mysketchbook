@@ -1,0 +1,36 @@
+#Explicação:
+O Past Continuous descreve uma ação em andamento no passado, geralmente interrompida por outra, ou duas ações simultâneas. A estrutura é was/were + verbo-ing (I was working, they were playing). A diferença para o Past Simple: o Simple é a foto (a ação terminou — I watched TV), o Continuous é o filme (a ação estava rolando — I was watching TV when she called). Usos principais: cenário (It was raining when I left), ação interrompida (I was cooking when the phone rang), e duas ações em paralelo (She was reading while he was cooking). O "while" costuma pedir Continuous nos dois lados; o "when" costuma pedir Continuous no cenário e Simple na interrupção.
+
+#Aprofunde seu conhecimento:
+- https://www.perfect-english-grammar.com/past-continuous.html
+- https://learnenglish.britishcouncil.org/grammar/a1-a2-grammar/past-continuous
+
+#Exercício:
+sentence: "I [[1]] dinner when the phone rang."
+answer: "was cooking"
+options: ["cooked", "was cooking", "cook", "cooking"]
+
+#Exercício:
+sentence: "They [[1]] soccer when it started to rain."
+answer: "were playing"
+options: ["played", "were playing", "play", "playing"]
+
+#Exercício:
+sentence: "She [[1]] a book while her brother was watching TV."
+answer: "was reading"
+options: ["read", "was reading", "reads", "reading"]
+
+#Exercício:
+sentence: "We [[1]] home when we saw the accident."
+answer: "were driving"
+options: ["drove", "were driving", "drive", "driving"]
+
+#Exercício:
+sentence: "The kids [[1]] in the garden all afternoon."
+answer: "were running"
+options: ["ran", "were running", "run", "running"]
+
+#Exercício:
+sentence: "He [[1]] the dishes when she arrived."
+answer: "was washing"
+options: ["washed", "was washing", "wash", "washing"]
